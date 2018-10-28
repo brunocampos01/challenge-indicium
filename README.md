@@ -13,8 +13,8 @@ Para visualizar os códigos e análises, abra o arquivo [DESAFIO ESTÁGIO DATA E
 
 ### Running ETL
 1. Abra o terminal e clone o repositório: <br/>
-`git clone https://github.com/brunocampos01/challenges/`<br/>
-`cd challenges/indicium`
+`git clone https://github.com/brunocampos01/challenge_indicium/`<br/>
+`cd challenge_indicium/`
 2. Execute o script:<br/>
 `python3 script_etl.py`
 

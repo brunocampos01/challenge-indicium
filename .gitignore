@@ -1,0 +1,32 @@
+# Cached builds
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.odt#
+.ipynb_checkpoints/
+.ropeproject/
+.cache/
+.coverage
+
+# Build directories
+docs/_build/
+build/
+dist/
+venv/
+
+
+# directories competitions
+kaggle/
+hackerank/
+codenation/
+revelo/
+
+
+# directories jobs
+aawz/
+indicium/
+nubank/
+

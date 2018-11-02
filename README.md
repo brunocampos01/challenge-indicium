@@ -14,7 +14,7 @@ https://www.python.org/downloads/
 - pip:<br/>
 `sudo apt-get install python-pip`
 - Bibliotecas:<br/>
-`pip install -r requirements.t
+`pip install -r requirements.t`
 
 ### Running ETL
 1. Abra o terminal e clone o repositório: <br/>

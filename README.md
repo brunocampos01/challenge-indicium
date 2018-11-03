@@ -8,7 +8,7 @@ Para visualizar os códigos e análises, abra o arquivo [DESAFIO ESTÁGIO DATA E
 
 ### Pre Requirements:
 - Python 3.7 ou superior:<br/>
-https://www.python.org/downloads/
+`sudo apt-get install python3.7`
 - Git:<br/>
 `sudo apt-get install git`
 - pip:<br/>

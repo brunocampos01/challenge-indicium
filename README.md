@@ -7,9 +7,14 @@ A sua tarefa é escrever um ETL usando esses arquivos de input e gerando dois ou
 Para visualizar os códigos e análises, abra o arquivo [DESAFIO ESTÁGIO DATA ENGINEERING.ipynb](https://github.com/brunocampos01/challenge-indicium/blob/master/DESAFIO%20EST%C3%81GIO%20DATA%20ENGINEERING.ipynb) 
 
 ### Pre Requirements:
-- Python 3.6 ou superior 
-- Bibliotecas: Numpy e Pandas
-- Git instalado no computador que irá executar o ETL
+- Python 3.7 ou superior:<br/>
+`sudo apt-get install python3.7`
+- Git:<br/>
+`sudo apt-get install git`
+- pip:<br/>
+`sudo apt-get install python-pip`
+- Bibliotecas:<br/>
+`pip install -r requirements.txt`
 
 ### Running ETL
 1. Abra o terminal e clone o repositório: <br/>

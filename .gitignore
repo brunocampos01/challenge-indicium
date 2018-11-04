@@ -16,6 +16,7 @@ docs/_build/
 build/
 dist/
 venv/
+env/
 
 
 # directories competitions

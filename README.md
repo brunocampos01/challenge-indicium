@@ -4,7 +4,7 @@
 A sua tarefa é escrever um ETL usando esses arquivos de input e gerando dois outputs.
 
 ### Quickstart
-Para visualizar os códigos e análises, abra o arquivo [DESAFIO ESTÁGIO DATA ENGINEERING.ipynb](https://github.com/brunocampos01/challenge-indicium/blob/master/DESAFIO%20EST%C3%81GIO%20DATA%20ENGINEERING.ipynb) 
+Para visualizar os códigos e análises, abra o arquivo [DESAFIO ESTÁGIO DATA ENGINEERING.ipynb](https://github.com/brunocampos01/challenge-indicium/blob/master/notebooks/challege-data-enginner-intern.ipynb) 
 
 ### Pre Requirements:
 - Python 3.7 ou superior:<br/>

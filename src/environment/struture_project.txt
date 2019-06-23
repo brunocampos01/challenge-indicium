@@ -1,0 +1,36 @@
+.
+├── data
+│   ├── companies.tsv
+│   ├── contacts.tsv
+│   ├── deals.tsv
+│   ├── output.csv
+│   └── sectors.tsv
+├── notebooks
+│   └── challege-data-enginner-intern.ipynb
+├── README.md
+├── reports
+│   ├── Valor Total Vendido por Contato.jpg
+│   ├── Valor_total_vendido_por_mês-2017.jpg
+│   ├── valor_total_vendido_por_mês-2017.png
+│   ├── Valor_total_vendido_por_mês-2018.jpg
+│   └── valor_total_vendido_por_mês-2018.png
+├── requirements.txt
+└── src
+    ├── environment
+    │   ├── config_environment.txt
+    │   ├── create_requirements.sh
+    │   ├── create_virtual_env.sh
+    │   ├── __init__.py
+    │   ├── makefile
+    │   ├── prepare_env.py
+    │   ├── README.md
+    │   ├── show_config_environment.sh
+    │   ├── show_struture_project.sh
+    │   ├── struture_project.txt
+    │   ├── test_environment.py
+    │   └── virtualenv_requirements.txt
+    ├── __init__.py
+    ├── notebook_config.ini
+    └── script_etl.py
+
+5 directories, 28 files

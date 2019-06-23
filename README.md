@@ -6,7 +6,7 @@ A sua tarefa é escrever um ETL usando esses arquivos de input e gerando dois ou
 ### Quickstart
 Para visualizar os códigos e análises, abra o arquivo [DESAFIO ESTÁGIO DATA ENGINEERING.ipynb](https://github.com/brunocampos01/challenge-indicium/blob/master/notebooks/challege-data-enginner-intern.ipynb) 
 
-### Pre Requirements:
+### Requirements
 - Python 3.7 ou superior:<br/>
 `sudo apt-get install python3.7`
 - Git:<br/>

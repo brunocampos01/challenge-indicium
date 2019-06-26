@@ -29,9 +29,9 @@ traitlets        : 4.3.2
 Disk Usage:
 
 data:
-40K	data/
+48K	data/
 
 virtual env:
 
 all:
-2,1M	.
+2,5M	.

@@ -1,5 +1,7 @@
 .
 ├── data
+│   ├── cleansing
+│   │   └── output.csv
 │   ├── companies.tsv
 │   ├── contacts.tsv
 │   ├── deals.tsv
@@ -30,7 +32,6 @@
     │   ├── test_environment.py
     │   └── virtualenv_requirements.txt
     ├── __init__.py
-    ├── notebook_config.ini
     └── script_etl.py
 
-5 directories, 28 files
+6 directories, 28 files

@@ -1,10 +1,12 @@
-# DESAFIO ESTÁGIO DATA ENGINEERING
+# Desafio Estágio Data Engineering
 
 ### About
 A sua tarefa é escrever um ETL usando esses arquivos de input e gerando dois outputs.
 
+
 ### Quickstart
-Para visualizar os códigos e análises, abra o arquivo [DESAFIO ESTÁGIO DATA ENGINEERING.ipynb](https://github.com/brunocampos01/challenge-indicium/blob/master/notebooks/challege-data-enginner-intern.ipynb) 
+Para visualizar os códigos e análises, abra o arquivo [DESAFIO ESTÁGIO DATA ENGINEERING](notebooks/challege-data-enginner-intern.ipynb)
+
 
 ### Requirements
 - Python 3.7 ou superior:<br/>
@@ -13,15 +15,23 @@ Para visualizar os códigos e análises, abra o arquivo [DESAFIO ESTÁGIO DATA E
 `sudo apt-get install git`
 - pip:<br/>
 `sudo apt-get install python-pip`
-- Bibliotecas:<br/>
-`pip install -r requirements.txt`
+
 
 ### Running ETL
-1. Abra o terminal e clone o repositório: <br/>
-`git clone https://github.com/brunocampos01/challenge_indicium/`<br/>
-`cd challenge_indicium/`
-2. Execute o script:<br/>
-`python3 script_etl.py`
+1. Abra o terminal e clone o repositório 
+```bash
+git clone https://github.com/brunocampos01/challenge_indicium/
+cd challenge_indicium/
+```
+
+2. Escolha em qual ambiente quer executa
+ - [local](src/environment/README.md)
+ - [virtual environment](src/environment/README.md)
+ - [container](src/environment/README.md)
+
+3. Execute o notebook: [DESAFIO ESTÁGIO DATA ENGINEERING](notebooks/challege-data-enginner-intern.ipynb)
+
+
 
 ### Output 1
 - São 3 imagens:

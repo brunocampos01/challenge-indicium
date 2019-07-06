@@ -1,110 +1,38 @@
 .
 ├── data
-│   ├── callcenter_descricao.txt
-│   ├── callcenter_marketing.csv
-│   ├── census.csv
 │   ├── cleansing
-│   │   └── callcenter_marketing_cleanning.csv
-│   ├── companies.tsv
-│   ├── contacts.tsv
-│   ├── daily_engagement.csv
-│   ├── deals.tsv
-│   ├── enrollments.csv
-│   ├── README.md
-│   ├── titanic_data.csv
-│   ├── train.tar.gz
-│   ├── USD-BRL-2019-03-22.json
-│   └── USD-BRL-2019-03-23.json
+│   │   └── output.csv
+│   └── raw
+│       ├── companies.tsv
+│       ├── contacts.tsv
+│       ├── deals.tsv
+│       └── sectors.tsv
 ├── notebooks
-│   ├── 1-prepare-environment.ipynb
-│   ├── 2-data-acquisition.ipynb
-│   ├── 3-data-cleaning.ipynb
-│   ├── 4-data-exploration-statistic.ipynb
-│   ├── 4-data-exploration-visualization.ipynb
-│   ├── 5-feature_engineering.ipynb
-│   ├── 6-algoritm-selection.ipynb
-│   ├── 7-tranning-model.ipynb
-│   ├── 8-evaluation.ipynb
-│   ├── draft.ipynb
-│   └── README.md
-├── references
-│   └── images
-│       ├── bar.png
-│       ├── better_data.png
-│       ├── bucket_titanic.png
-│       ├── data-cleaning.png
-│       ├── data-munging.png
-│       ├── dataset_ready.png
-│       ├── datas.png
-│       ├── data_visualization-2.png
-│       ├── data_visualization.png
-│       ├── describe-stats.png
-│       ├── dimensionality.png
-│       ├── dropna.png
-│       ├── duplicate_data.png
-│       ├── fature-selection.png
-│       ├── feature_eng.png
-│       ├── feature_hashing.png
-│       ├── fillna.png
-│       ├── grau_confiança.png
-│       ├── hashing.png
-│       ├── histogram.png
-│       ├── interpolation.png
-│       ├── Interquartile-Even.png
-│       ├── irrelevant_data.png
-│       ├── Joining-Forces.png
-│       ├── kurtosis.png
-│       ├── line.png
-│       ├── log_transform.png
-│       ├── log_transforms.png
-│       ├── mean_mode_median.png
-│       ├── normal_boxplot.png
-│       ├── normalization.png
-│       ├── one_hot.png
-│       ├── organic.png
-│       ├── Outlier_print.png
-│       ├── outliers.png
-│       ├── quartis.png
-│       ├── scaling_data.png
-│       ├── scaling.png
-│       ├── scatter.png
-│       ├── skews.png
-│       ├── standard.png
-│       ├── stay_elegant.png
-│       ├── steps-analysis.png
-│       ├── transformation.png
-│       ├── undestand_data.png
-│       └── way_to_explore.png
+│   └── challege-data-enginner-intern.ipynb
+├── README.md
 ├── reports
-│   └── callcenter_marketing_clenning.csv
-├── requirements.txt
+│   ├── valor_total_vendido_por_contato.png
+│   ├── valor_total_vendido_por_mês-2017.png
+│   └── valor_total_vendido_por_mês-2018.png
 └── src
-    ├── dump_data
-    │   └── dump_data.py
     ├── environment
     │   ├── config_environment.txt
+    │   ├── container
+    │   │   └── Dockerfile
     │   ├── create_requirements.sh
     │   ├── create_virtual_env.sh
     │   ├── __init__.py
+    │   ├── jupyter_notebook_config.py
     │   ├── makefile
     │   ├── prepare_env.py
     │   ├── README.md
+    │   ├── requirements.txt
     │   ├── show_config_environment.sh
     │   ├── show_struture_project.sh
     │   ├── struture_project.txt
     │   ├── test_environment.py
+    │   ├── venv
     │   └── virtualenv_requirements.txt
-    ├── __init__.py
-    ├── models
-    │   └── README.md
-    ├── pyanalytics
-    │   ├── __init__.py
-    │   └── README.md
-    ├── README.md
-    ├── setup.py
-    └── visualization
-        ├── hidden_code.js
-        ├── matplotlib_config.ini
-        └── visuals.py
+    └── __init__.py
 
-12 directories, 95 files
+9 directories, 26 files

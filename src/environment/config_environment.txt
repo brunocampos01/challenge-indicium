@@ -6,10 +6,9 @@ Release:	19.04
 Codename:	disco
 
 Python Version:
-Python 3.7.3
 
 Pip Version:
-pip 19.1.1 from /home/campos/projetos/venv_global/lib/python3.7/site-packages/pip (python 3.7)
+pip 19.1.1 from /home/campos/.local/lib/python3.7/site-packages/pip (python 3.7)
 
 Jupyter Version:
 jupyter core     : 4.5.0
@@ -29,9 +28,9 @@ traitlets        : 4.3.2
 Disk Usage:
 
 data:
-48K	data/
+47M	data/
 
 virtual env:
 
 all:
-2,5M	.
+71M	.

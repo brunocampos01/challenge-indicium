@@ -33,6 +33,7 @@ du -h --summarize data/ >>$PROJECT_DIR/config_environment.txt
 
 echo -e "\nvirtual env:" >>$PROJECT_DIR/config_environment.txt
 du -h --summarize venv*/ >>$PROJECT_DIR/config_environment.txt
+du -h --summarize src/environment/venv*/ >>$PROJECT_DIR/config_environment.txt
 
 echo -e "\nall:" >>$PROJECT_DIR/config_environment.txt
 du -h --summarize . >>$PROJECT_DIR/config_environment.txt

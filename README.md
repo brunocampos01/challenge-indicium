@@ -9,12 +9,25 @@ Para visualizar os códigos e análises, abra o arquivo [DESAFIO ESTÁGIO DATA E
 
 
 ### Requirements
-- Python 3.7 ou superior:<br/>
-`sudo apt-get install python3.7`
-- Git:<br/>
-`sudo apt-get install git`
-- pip:<br/>
-`sudo apt-get install python-pip`
+- Python 3.7 ou superior
+```sh
+sudo apt-get install python3.7
+```
+
+- Git
+```sh
+sudo apt-get install git
+```
+
+- pip
+```sh
+sudo apt-get install python-pip
+```
+
+- Python Virtual Environment
+```sh
+pip3 install --user virtualenv==16.6.0
+```
 
 
 ### Running ETL

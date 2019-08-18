@@ -56,4 +56,4 @@ OBS: as imagens já constam salvas no diretório. Elas são geradas a partir da 
 
 ### Output 2
 - É a lista dos setores de empresa, ordenado por quanto esse setor representa no total vendido pela empresa no mês  **a partir de cada ano.**
-- Arquivo: [output.csv](https://github.com/brunocampos01/challenge-indicium/blob/master/reports/output.csv)
+- Arquivo: [output.csv](data/cleansing/)
